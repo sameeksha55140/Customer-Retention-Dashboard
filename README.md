@@ -5,6 +5,10 @@
 This project analyzes customer engagement and product usage patterns to understand **bank customer retention behavior**.
 Instead of relying only on demographics, this analysis focuses on **behavioral signals like activity, product adoption, and financial engagement** to identify churn risk.
 
+ 🌐 Live Demo
+
+👉 [Click here to view the Streamlit App](https://customer-retention-dashboard-mauyuoh4r77prorl7scpum.streamlit.app/)
+
 ---
 🎯 Objectives
 
