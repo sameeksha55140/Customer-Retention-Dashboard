@@ -149,7 +149,9 @@ streamlit run app.py
  👩‍💻 Author
 
 **Sameeksha Chowti**
+
 Final Year Engineering Student
+
 Aspiring Data Scientist
 
 
